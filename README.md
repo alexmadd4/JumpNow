@@ -1,4 +1,4 @@
-# JumpNow
+# JumpNow Java 2D Game
 
 Feel free to explore the code and even integrate it into your own projects – just remember to give credit where credit is due! 🙌🏼📜
 
